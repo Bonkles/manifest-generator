@@ -1,0 +1,63 @@
+{
+  "type": "Collection",
+  "id": "building_part",
+  "stac_version": "1.0.0",
+  "description": "Type information",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00000/00000.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "extent": {
+    "bbox": [
+      [
+        [
+          -180.0,
+          -90.0,
+          180.0,
+          90.0
+        ]
+      ]
+    ]
+  },
+  "license": "ODbL",
+  "summaries": {
+    "columns": [
+      "id",
+      "geometry",
+      "bbox",
+      "version",
+      "sources",
+      "names",
+      "level",
+      "height",
+      "is_underground",
+      "num_floors",
+      "num_floors_underground",
+      "min_height",
+      "min_floor",
+      "facade_color",
+      "facade_material",
+      "roof_material",
+      "roof_shape",
+      "roof_direction",
+      "roof_orientation",
+      "roof_color",
+      "roof_height",
+      "building_id"
+    ],
+    "schema": "1.1.0"
+  }
+}

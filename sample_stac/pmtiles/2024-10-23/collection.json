@@ -1,0 +1,61 @@
+{
+  "type": "Collection",
+  "id": "2024-10-23",
+  "stac_version": "1.0.0",
+  "description": "PMTiles collection for release 2024-10-23",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./addresses.pmtiles/addresses.pmtiles.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./base.pmtiles/base.pmtiles.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./buildings.pmtiles/buildings.pmtiles.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./divisions.pmtiles/divisions.pmtiles.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./places.pmtiles/places.pmtiles.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./transportation.pmtiles/transportation.pmtiles.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "extent": {
+    "bbox": [
+      [
+        [
+          -180.0,
+          -90.0,
+          180.0,
+          90.0
+        ]
+      ]
+    ]
+  },
+  "license": "ODbL"
+}

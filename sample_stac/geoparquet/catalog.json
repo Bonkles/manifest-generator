@@ -1,0 +1,64 @@
+{
+  "type": "Catalog",
+  "id": "release",
+  "stac_version": "1.0.0",
+  "description": "This catalog is for the geoparquet data released as version 2024-09-18.0",
+  "links": [
+    {
+      "rel": "root",
+      "href": "./catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./addresses/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./base/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./buildings/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./divisions/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./places/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./transportation/catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/storage/v2.0.0/schema.json"
+  ],
+  "storage:schemes": {
+    "aws": {
+      "type": "aws-s3",
+      "platform": "https://{bucket}-{region}.s3.amazonaws.com/release/{release_version}",
+      "release_version": "2024-09-18.0",
+      "bucket": "overturemaps",
+      "region": "us-west-2",
+      "requester_pays": "false"
+    },
+    "azure": {
+      "type": "ms-azure",
+      "platform": "https://{bucket}-{region}.blob.core.windows.net/release/{release_version}",
+      "release_version": "2024-09-18.0",
+      "bucket": "overturemaps",
+      "region": "westus2",
+      "requester_pays": "false"
+    }
+  }
+}

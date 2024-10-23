@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "stac_extensions": [],
+  "id": "00087",
+  "geometry": null,
+  "properties": {
+    "datetime": "2024-09-18T00:00:00Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "collection",
+      "href": "../collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json",
+      "type": "application/json"
+    }
+  ],
+  "assets": {
+    "parquet-part-00087-d0628531-2fbd-47aa-8608-f61ff708b14c-c000.zstd.parquet": {
+      "href": "/theme=buildings/type=building/part-00087-d0628531-2fbd-47aa-8608-f61ff708b14c-c000.zstd.parquet",
+      "type": "application/vnd.apache.parquet"
+    }
+  },
+  "collection": "building"
+}

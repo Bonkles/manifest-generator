@@ -1,0 +1,75 @@
+{
+  "type": "Collection",
+  "id": "place",
+  "stac_version": "1.0.0",
+  "description": "Type information",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00000/00000.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00001/00001.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00002/00002.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00003/00003.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00004/00004.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "extent": {
+    "bbox": [
+      [
+        [
+          -180.0,
+          -90.0,
+          180.0,
+          90.0
+        ]
+      ]
+    ]
+  },
+  "license": "ODbL",
+  "summaries": {
+    "columns": [
+      "id",
+      "geometry",
+      "bbox",
+      "version",
+      "sources",
+      "names",
+      "categories",
+      "confidence",
+      "websites",
+      "socials",
+      "emails",
+      "phones",
+      "brand",
+      "addresses"
+    ],
+    "schema": "1.1.0"
+  }
+}

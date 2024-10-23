@@ -8,7 +8,7 @@ import yaml
 import requests
 
 #release_version = "2024-06-13-beta.1"
-release_version = "2024-07-22.0"
+release_version = "2024-09-18.0"
 
 
 # Parse the schema-to-release mapping yaml available on the Overture Maps github org, and cross-reference it with the 
@@ -27,15 +27,15 @@ def get_schema_version(versionstr):
         if (schemaitem['release'] == versionstr):
             return schemaitem['schema']
 
-    print ("No schema entry found for this release number, bailing out.")
-    exit(2)
+    print ("No schema entry found for this release number, Assuming that we're still using the latest version listed: " + yaml_content[0]['schema'])
+    return yaml_content[0]['schema']
 
 #The object that we'll eventually serialize into the release-level manifest
 json_dict = {}
 
 json_dict['schema_version'] = get_schema_version(release_version)
 json_dict['schema_tag'] = 'https://github.com/OvertureMaps/schema/releases/tag/v' + json_dict['schema_version']
-json_dict['version'] = release_version
+json_dict['release_version'] = release_version
 
 
 def get_type_schema_info(s3fs, filepath):
@@ -146,9 +146,3 @@ json_object = json.dumps(json_dict, indent=4)
 
 with open("sample.json", "w") as outfile:
     outfile.write(json_object)
-
-# dataset = ds.dataset(
-#     path, filesystem=fs.S3FileSystem(anonymous=True, region="us-west-2")
-# )
-
-

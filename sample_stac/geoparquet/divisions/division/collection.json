@@ -1,0 +1,63 @@
+{
+  "type": "Collection",
+  "id": "division",
+  "stac_version": "1.0.0",
+  "description": "Type information",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00000/00000.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "extent": {
+    "bbox": [
+      [
+        [
+          -180.0,
+          -90.0,
+          180.0,
+          90.0
+        ]
+      ]
+    ]
+  },
+  "license": "ODbL",
+  "summaries": {
+    "columns": [
+      "id",
+      "geometry",
+      "bbox",
+      "country",
+      "version",
+      "sources",
+      "subtype",
+      "class",
+      "names",
+      "wikidata",
+      "division_ids",
+      "is_disputed",
+      "perspectives",
+      "local_type",
+      "region",
+      "hierarchies",
+      "parent_division_id",
+      "norms",
+      "population",
+      "capital_division_ids",
+      "capital_of_divisions",
+      "division_id"
+    ],
+    "schema": "1.1.0"
+  }
+}

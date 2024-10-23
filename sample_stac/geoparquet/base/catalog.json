@@ -1,0 +1,43 @@
+{
+  "type": "Catalog",
+  "id": "base",
+  "stac_version": "1.0.0",
+  "description": "Theme information",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./infrastructure/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./land/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./land_cover/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./land_use/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./water/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ]
+}

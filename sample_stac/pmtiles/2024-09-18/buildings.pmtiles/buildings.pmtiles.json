@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "stac_extensions": [],
+  "id": "buildings.pmtiles",
+  "geometry": null,
+  "properties": {
+    "datetime": "2024-09-18T00:00:00Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "collection",
+      "href": "../collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json",
+      "type": "application/json"
+    }
+  ],
+  "assets": {
+    "buildings": {
+      "href": "./2024-09-18/buildings.pmtiles",
+      "type": "application/vnd.pmtiles"
+    }
+  },
+  "collection": "2024-09-18"
+}

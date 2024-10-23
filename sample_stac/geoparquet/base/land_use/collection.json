@@ -1,0 +1,113 @@
+{
+  "type": "Collection",
+  "id": "land_use",
+  "stac_version": "1.0.0",
+  "description": "Type information",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00000/00000.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00001/00001.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00002/00002.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00003/00003.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00004/00004.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00005/00005.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00006/00006.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00007/00007.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00008/00008.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00009/00009.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00010/00010.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00011/00011.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00012/00012.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "extent": {
+    "bbox": [
+      [
+        [
+          -180.0,
+          -90.0,
+          180.0,
+          90.0
+        ]
+      ]
+    ]
+  },
+  "license": "ODbL",
+  "summaries": {
+    "columns": [
+      "id",
+      "geometry",
+      "bbox",
+      "version",
+      "sources",
+      "subtype",
+      "class",
+      "surface",
+      "names",
+      "level",
+      "source_tags",
+      "wikidata"
+    ],
+    "schema": "1.1.0"
+  }
+}

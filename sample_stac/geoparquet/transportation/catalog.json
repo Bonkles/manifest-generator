@@ -1,0 +1,28 @@
+{
+  "type": "Catalog",
+  "id": "transportation",
+  "stac_version": "1.0.0",
+  "description": "Theme information",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./connector/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./segment/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ]
+}

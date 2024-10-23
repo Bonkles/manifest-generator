@@ -1,0 +1,28 @@
+{
+  "type": "Catalog",
+  "id": "buildings",
+  "stac_version": "1.0.0",
+  "description": "Theme information",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./building/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./building_part/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ]
+}

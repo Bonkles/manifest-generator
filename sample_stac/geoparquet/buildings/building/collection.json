@@ -1,0 +1,1100 @@
+{
+  "type": "Collection",
+  "id": "building",
+  "stac_version": "1.0.0",
+  "description": "Type information",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00000/00000.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00001/00001.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00002/00002.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00003/00003.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00004/00004.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00005/00005.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00006/00006.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00007/00007.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00008/00008.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00009/00009.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00010/00010.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00011/00011.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00012/00012.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00013/00013.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00014/00014.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00015/00015.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00016/00016.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00017/00017.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00018/00018.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00019/00019.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00020/00020.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00021/00021.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00022/00022.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00023/00023.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00024/00024.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00025/00025.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00026/00026.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00027/00027.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00028/00028.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00029/00029.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00030/00030.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00031/00031.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00032/00032.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00033/00033.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00034/00034.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00035/00035.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00036/00036.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00037/00037.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00038/00038.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00039/00039.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00040/00040.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00041/00041.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00042/00042.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00043/00043.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00044/00044.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00045/00045.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00046/00046.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00047/00047.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00048/00048.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00049/00049.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00050/00050.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00051/00051.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00052/00052.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00053/00053.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00054/00054.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00055/00055.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00056/00056.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00057/00057.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00058/00058.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00059/00059.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00060/00060.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00061/00061.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00062/00062.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00063/00063.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00064/00064.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00065/00065.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00066/00066.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00067/00067.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00068/00068.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00069/00069.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00070/00070.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00071/00071.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00072/00072.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00073/00073.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00074/00074.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00075/00075.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00076/00076.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00077/00077.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00078/00078.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00079/00079.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00080/00080.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00081/00081.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00082/00082.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00083/00083.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00084/00084.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00085/00085.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00086/00086.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00087/00087.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00088/00088.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00089/00089.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00090/00090.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00091/00091.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00092/00092.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00093/00093.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00094/00094.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00095/00095.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00096/00096.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00097/00097.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00098/00098.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00099/00099.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00100/00100.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00101/00101.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00102/00102.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00103/00103.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00104/00104.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00105/00105.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00106/00106.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00107/00107.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00108/00108.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00109/00109.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00110/00110.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00111/00111.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00112/00112.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00113/00113.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00114/00114.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00115/00115.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00116/00116.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00117/00117.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00118/00118.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00119/00119.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00120/00120.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00121/00121.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00122/00122.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00123/00123.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00124/00124.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00125/00125.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00126/00126.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00127/00127.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00128/00128.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00129/00129.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00130/00130.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00131/00131.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00132/00132.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00133/00133.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00134/00134.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00135/00135.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00136/00136.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00137/00137.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00138/00138.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00139/00139.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00140/00140.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00141/00141.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00142/00142.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00143/00143.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00144/00144.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00145/00145.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00146/00146.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00147/00147.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00148/00148.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00149/00149.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00150/00150.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00151/00151.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00152/00152.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00153/00153.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00154/00154.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00155/00155.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00156/00156.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00157/00157.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00158/00158.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00159/00159.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00160/00160.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00161/00161.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00162/00162.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00163/00163.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00164/00164.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00165/00165.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00166/00166.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00167/00167.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00168/00168.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00169/00169.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00170/00170.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00171/00171.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00172/00172.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00173/00173.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00174/00174.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00175/00175.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00176/00176.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00177/00177.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00178/00178.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00179/00179.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00180/00180.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00181/00181.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00182/00182.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00183/00183.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00184/00184.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00185/00185.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00186/00186.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00187/00187.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00188/00188.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00189/00189.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00190/00190.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00191/00191.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00192/00192.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00193/00193.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00194/00194.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00195/00195.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00196/00196.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00197/00197.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00198/00198.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00199/00199.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00200/00200.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00201/00201.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00202/00202.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00203/00203.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00204/00204.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00205/00205.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00206/00206.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00207/00207.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "extent": {
+    "bbox": [
+      [
+        [
+          -180.0,
+          -90.0,
+          180.0,
+          90.0
+        ]
+      ]
+    ]
+  },
+  "license": "ODbL",
+  "summaries": {
+    "columns": [
+      "id",
+      "geometry",
+      "bbox",
+      "version",
+      "sources",
+      "subtype",
+      "class",
+      "names",
+      "level",
+      "has_parts",
+      "height",
+      "is_underground",
+      "num_floors",
+      "num_floors_underground",
+      "min_height",
+      "min_floor",
+      "facade_color",
+      "facade_material",
+      "roof_material",
+      "roof_shape",
+      "roof_direction",
+      "roof_orientation",
+      "roof_color",
+      "roof_height"
+    ],
+    "schema": "1.1.0"
+  }
+}

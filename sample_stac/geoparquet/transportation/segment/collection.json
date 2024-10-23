@@ -1,0 +1,337 @@
+{
+  "type": "Collection",
+  "id": "segment",
+  "stac_version": "1.0.0",
+  "description": "Type information",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00000/00000.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00001/00001.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00002/00002.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00003/00003.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00004/00004.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00005/00005.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00006/00006.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00007/00007.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00008/00008.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00009/00009.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00010/00010.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00011/00011.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00012/00012.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00013/00013.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00014/00014.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00015/00015.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00016/00016.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00017/00017.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00018/00018.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00019/00019.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00020/00020.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00021/00021.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00022/00022.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00023/00023.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00024/00024.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00025/00025.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00026/00026.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00027/00027.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00028/00028.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00029/00029.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00030/00030.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00031/00031.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00032/00032.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00033/00033.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00034/00034.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00035/00035.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00036/00036.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00037/00037.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00038/00038.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00039/00039.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00040/00040.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00041/00041.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00042/00042.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00043/00043.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00044/00044.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00045/00045.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00046/00046.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00047/00047.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00048/00048.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00049/00049.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00050/00050.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00051/00051.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00052/00052.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00053/00053.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00054/00054.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./00055/00055.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "extent": {
+    "bbox": [
+      [
+        [
+          -180.0,
+          -90.0,
+          180.0,
+          90.0
+        ]
+      ]
+    ]
+  },
+  "license": "ODbL",
+  "summaries": {
+    "columns": [
+      "id",
+      "geometry",
+      "bbox",
+      "version",
+      "sources",
+      "subtype",
+      "class",
+      "names",
+      "connector_ids",
+      "connectors",
+      "routes",
+      "subclass",
+      "subclass_rules",
+      "access_restrictions",
+      "level_rules",
+      "destinations",
+      "prohibited_transitions",
+      "road_surface",
+      "road_flags",
+      "speed_limits",
+      "width_rules"
+    ],
+    "schema": "1.1.0"
+  }
+}

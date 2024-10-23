@@ -1,0 +1,45 @@
+{
+  "type": "Catalog",
+  "id": "pmtiles",
+  "stac_version": "1.0.0",
+  "description": "This catalog is for the PMTiles data released by overture",
+  "links": [
+    {
+      "rel": "root",
+      "href": "./catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./2024-07-22/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./2024-08-20/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./2024-09-18/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./2024-10-23/collection.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/storage/v2.0.0/schema.json"
+  ],
+  "storage:schemes": {
+    "aws": {
+      "type": "aws-s3",
+      "platform": "https://{bucket}-{region}.s3.amazonaws.com/",
+      "bucket": "overturemaps-tiles-us-west-2-beta",
+      "region": "us-west-2",
+      "requester_pays": "false"
+    }
+  }
+}
